@@ -1,6 +1,6 @@
 # 🚀 인하공업전문대학 개발팀
 
-저희는 인하공업전문대학의 컴퓨터시스템과 개발팀입니다. 다양한 기술을 활용하여 프로젝트를 만들어내고 있습니다.
+저희는 인하공업전문대학의 컴퓨터시스템공학과 개발팀입니다. 다양한 기술을 활용하여 프로젝트를 만들어내고 있습니다.
 
 ## 🎓 소속
 
@@ -24,15 +24,15 @@
 
 ## 👥 팀원 소개
 
-- 이준환:[github.com/junans0boi]
-- 이혁주:[github.com/babo8493]
-- 김민호:[github.com/Kim-Minmme]
-- 정지원:[github.com/jiwjung]
-- 안지우:[github.com/3xnor]
-- 윤홍권:[github.com/honggoun]
-- 최정희:[github.com/junghee-19]
-- 김태민:[github.com/dksldlrpantms]
-- 장준:[github.com/???] 나 얘 깃헙 몰라
+- (이준환)[github.com/junans0boi]
+- (이혁주)[github.com/babo8493]
+- (김민호)[github.com/Kim-Minmme]
+- (정지원)[github.com/jiwjung]
+- (안지우)[github.com/3xnor]
+- (윤홍권)[github.com/honggoun]
+- (최정희)[github.com/junghee-19]
+- (김태민)[github.com/dksldlrpantms]
+- (장준)[github.com/???] 나 얘 깃헙 몰라
 
 ## 📞 연락처
 
