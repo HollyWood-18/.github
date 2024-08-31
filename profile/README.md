@@ -9,7 +9,7 @@
 ## 💻 기술 스택
 
 저희 팀은 다음과 같은 다양한 기술 스택을 사용하고 있습니다:
-
+- ! [C](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **C**: 
 - ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) **유니티 (C#)**: 게임 및 인터랙티브 콘텐츠 개발
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**: 데이터 분석, 백엔드 개발
 - ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) **스프링**: 강력한 백엔드 시스템 구축
